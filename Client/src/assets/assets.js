@@ -4,11 +4,11 @@ import help_icon from './help_icon.png'
 import logo_icon from './logo_icon.svg'
 import logo_big from './logo_big.svg'
 import logo from './logo.png'
-import profile_richard from './profile_richard.png'
-import profile_alison from './profile_alison.png'
-import profile_enrique from './profile_enrique.png'
-import profile_marco from './profile_marco.png'
-import profile_martin from './profile_martin.png'
+import profile_Arpit from './profile_Arpit.png'
+import profile_shivam from './profile_shivam.png'
+import profile_sanju from './profile_sanju.png'
+import profile_avii from './profile_avii.png'
+import profile_arnav from './profile_arnav.png'
 import search_icon from './search_icon.png'
 import send_button from './send_button.svg'
 import menu_icon from './menu_icon.png'
@@ -35,7 +35,7 @@ const assets = {
     arrow_icon,
     code,
     bgImage,
-    profile_martin
+    profile_Arpit
 }
 
 export default assets;
@@ -45,38 +45,38 @@ export const imagesDummyData = [pic1, pic2, pic3, pic4, pic1, pic2]
 export const userDummyData = [
     {
         "_id": "680f50aaf10f3cd28382ecf2",
-        "email": "test1@greatstack.dev",
-        "fullName": "Alison Martin",
-        "profilePic": profile_alison,
-        "bio": "Hi Everyone, I am Using QuickChat",
+        "email": "test1@arpit.dev",
+        "fullName": "Honey",
+        "profilePic": profile_Arpit,
+        "bio": "Hi Everyone, I am Using FriendCircle",
     },
     {
         "_id": "680f50e4f10f3cd28382ecf9",
-        "email": "test2@greatstack.dev",
-        "fullName": "Martin Johnson",
-        "profilePic": profile_martin,
-        "bio": "Hi Everyone, I am Using QuickChat",
-    },
-    {
-        "_id": "680f510af10f3cd28382ed01",
-        "email": "test3@greatstack.dev",
-        "fullName": "Enrique Martinez",
-        "profilePic": profile_enrique,
-        "bio": "Hi Everyone, I am Using QuickChat",
-    },
-    {
-        "_id": "680f5137f10f3cd28382ed10",
-        "email": "test4@greatstack.dev",
-        "fullName": "Marco Jones",
-        "profilePic": profile_marco,
-        "bio": "Hi Everyone, I am Using QuickChat",
+        "email": "test2@arpit.dev",
+        "fullName": "Avii",
+        "profilePic": profile_avii,
+        "bio": "Hi Everyone, I am Using FriendCircle",
     },
     {
         "_id": "680f516cf10f3cd28382ed11",
-        "email": "test5@greatstack.dev",
-        "fullName": "Richard Smith",
-        "profilePic": profile_richard,
-        "bio": "Hi Everyone, I am Using QuickChat",
+        "email": "test5@arpit.dev",
+        "fullName": "Shivam",
+        "profilePic": profile_shivam,
+        "bio": "Hi Everyone, I am Using FriendCircle",
+    },
+    {
+        "_id": "680f510af10f3cd28382ed01",
+        "email": "test3@arpit.dev",
+        "fullName": "Sanju",
+        "profilePic": profile_sanju,
+        "bio": "Hi Everyone, I am Using FriendCircle",
+    },
+    {
+        "_id": "680f5137f10f3cd28382ed10",
+        "email": "test4@arpit.dev",
+        "fullName": "Arnav",
+        "profilePic": profile_arnav,
+        "bio": "Hi Everyone, I am Using FriendCircle",
     }
 ]
 
